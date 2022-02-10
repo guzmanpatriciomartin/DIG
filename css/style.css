@@ -1,0 +1,15 @@
+.glutenfont{
+    font-family: 'Gluten', cursive;
+}
+.mail{
+    width: 20px;
+    height: 20px;
+
+}
+.logo{
+    width: 40px;   
+    height: 40px;
+}
+.vh-60{
+    height: 60vh;
+}
